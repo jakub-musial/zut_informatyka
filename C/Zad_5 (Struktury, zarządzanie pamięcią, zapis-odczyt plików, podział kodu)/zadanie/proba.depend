@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643163338 source:d:\studia\rok 1\semestr i\programowanie 1\zadania domowe\proba\proba\main.c
+	<stdio.h>
+	"zmienne.h"
+
+1643164673 d:\studia\rok 1\semestr i\programowanie 1\zadania domowe\proba\proba\zmienne.h
+
+1643164254 source:d:\studia\rok 1\semestr i\programowanie 1\zadania domowe\proba\proba\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"zmienne.h"
+
